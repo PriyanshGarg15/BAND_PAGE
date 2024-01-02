@@ -1,8 +1,8 @@
-#Band Page
+# Band Page
 Developed a standard band page with a user-friendly layout, leveraging the power of
 Bootstrap to enhance both design and functionality.
 
-#Project Overview
+# Project Overview
 Features:
 · Navigation bar with anchor links for seamless scrolling.
 · Sections highlighting the band's origin, members, and upcoming tour details.
